@@ -1,0 +1,16 @@
+table {
+  table-layout: fixed;
+  width: 100%;
+}
+
+td button {
+  width: 100%;
+}
+
+.player {
+  text-align: center;
+}
+
+.table-view .player {
+  width: 20%;
+}
